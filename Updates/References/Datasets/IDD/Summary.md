@@ -2,6 +2,8 @@
 
 [IDD Dataset](http://idd.insaan.iiit.ac.in/)
 
+[IDD Dataset Paper](http://idd.insaan.iiit.ac.in/media/publications/idd-650.pdf)
+
 ##### What BDD Dataset Provides
 
 ###### Image Tagging
