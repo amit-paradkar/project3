@@ -8,6 +8,7 @@
 |Document Paper Summary - Yolo|Not started|||
 |Document Paper Summary - Fast RNN|Not started|||
 |Document Darknet architecture|Not started|||
+|Document Deployment approach|Not started|||
 
 
 
