@@ -1,7 +1,6 @@
 ## Domain Exploration Phase
 
 |Task|Status|ETA|Comments|
-|---------------|------|--------|
-|Domain exploration|In progress|12-Dec-2021||
-|Model training|Not started|30-Jan-2022||
-|Model Deployment|Not started|28-Feb-2022||
+|---------------|------|--------|---|
+|Document BDD Data understanding|Completed|29-Nov-2021|https://github.com/amit-paradkar/project3/blob/main/Updates/References/Datasets/BDD/Summary.md|
+|Document Understanding of Teminologies in Object Detection|Not started|||
