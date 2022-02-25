@@ -1,0 +1,8 @@
+uvicorn
+aiofiles
+fastapi
+python-multipart
+jinja2
+numpy
+opencv-python-headless
+Pillow
